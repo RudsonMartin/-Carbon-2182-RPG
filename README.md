@@ -1,8 +1,8 @@
 
-Projeto: Jogo Cyberpunk (Interface de Linha de Comando - CMD)
+Projeto: Jogo Carbon 2185 (Interface de Linha de Comando - CMD)
 
 
-#Objetivo: Desenvolver um jogo no estilo Cyberpunk com mecânicas básicas e ambientação textual, rodando exclusivamente no CMD.
+#Objetivo: Desenvolver um jogo no estilo Carbon 2185 com mecânicas básicas e ambientação textual, rodando exclusivamente no CMD.
 Investimento Inicial: Zero (utilização de ferramentas e plataformas gratuitas)
 Banco de Dados: Relacional (MySQL
 Linguagem: Python ou C
@@ -12,11 +12,11 @@ Metodologia: Scrum com Sprints semanais
 #Etapas do Projeto
 1. Planejamento Inicial
 Visão do Jogo:
-Estilo: Cyberpunk (mundo distópico, alta tecnologia, decadência social).
+Estilo: Futurismo (mundo distópico, alta tecnologia, decadência social).
 Personagens: Humanos, ciborgues, hackers (tudo em texto, com segurança).
 Mecânica: Jogo baseado em narrativa e decisões, com desafios de hacking, exploração e combate.
 Plataforma: Desktop, via CMD (Windows, Linux).
-Ferramentas Gratuitas:
+Ferramentas:
 Editor de Código: Visual Studio Code (Python) ou Code::Blocks (C)
 Banco de Dados: MySQL/PostgreSQL (hospedagem local)
 Controle de versão: Git (GitHub ou GitLab)
